@@ -1,0 +1,6 @@
+{
+  "name": "Piano Pal",
+  "description": "An interactive piano practice app with guided chord progression, auto-harmonization, and tactile keyboard play.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
